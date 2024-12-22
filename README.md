@@ -1,2 +1,2 @@
 # Linear_Regression
-Machine learning model. Built with the help from Data Professor. 
+Machine learning model. Built with help from Data Professor. 
